@@ -50,7 +50,7 @@
     "merge-graphql-schemas": "^1.5.3",
     "node-fetch": "^2.2.0",
     "node-uuid": "^1.4.8",
-    "nodemailer": "^4.6.7",
+    "nodemailer": "^6.4.16",
     "passport": "0.4.0",
     "passport-auth0": "1.1.0",
     "passport-google-oauth": "^1.0.0",
